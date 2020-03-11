@@ -2,9 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e813a18b-068b-40b3-86d7-514f7b76e466" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker/Vue/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/yn/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Vue/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/nginx/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/dev-client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/dev-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/load-minified.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/service-worker-dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/service-worker-prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/src/components/Hello.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/msapplication-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/static/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ApiResponse/ApiResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ApiResponse/ApiResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/Config/MongoConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/Config/MongoConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItem$ToDoItemBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItem$ToDoItemBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemResponse$ToDoItemResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemResponse$ToDoItemResponseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/YnApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/YnApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/yn-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/yn-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.example.yn.YnApplicationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.example.yn.YnApplicationTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.example.yn.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.example.yn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.example.yn.YnApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.example.yn.YnApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/yn/ToDoItem/ToDoItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/yn/ToDoItem/ToDoItemController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +95,45 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,14 +148,70 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.mallowigi.config" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="spring" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Docker/Vue" />
+      <recent name="$PROJECT_DIR$/Vue" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YnApplication">
+    <configuration name="YnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yn.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yn.YnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docker-compose.yml.app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.vue: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="vue" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.vue: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.app: Compose Deployment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
@@ -52,6 +219,26 @@
         <entry key="$PROJECT_DIR$/.." value="PREVIEW" />
       </map>
     </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,7 +250,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583371803008</updated>
-      <workItem from="1583371810157" duration="2187000" />
+      <workItem from="1583371810157" duration="3877000" />
+      <workItem from="1583376202536" duration="11851000" />
+      <workItem from="1583397282311" duration="3251000" />
+      <workItem from="1583410203305" duration="1733000" />
+      <workItem from="1583454564120" duration="15645000" />
+      <workItem from="1583800007853" duration="5936000" />
+      <workItem from="1583807701676" duration="4343000" />
+      <workItem from="1583886788224" duration="4535000" />
+      <workItem from="1583892396691" duration="5546000" />
+      <workItem from="1583899303934" duration="4083000" />
     </task>
     <servers />
   </component>
@@ -71,9 +267,65 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="130" y="370" key="com.intellij.ide.util.TipDialog" timestamp="1583371829697">
+    <state x="48" y="203" key="#Plugins" timestamp="1583892378678">
       <screen x="0" y="23" width="1792" height="1029" />
     </state>
-    <state x="130" y="370" key="com.intellij.ide.util.TipDialog/0.23.1792.1029@0.23.1792.1029" timestamp="1583371829697" />
+    <state x="48" y="203" key="#Plugins/0.23.1792.1029@0.23.1792.1029" timestamp="1583892378678" />
+    <state x="300" y="433" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583379185450">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state x="300" y="433" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1792.1029@0.23.1792.1029" timestamp="1583379185450" />
+    <state width="1149" height="260" key="GridCell.Tab.0.bottom" timestamp="1583898921070">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1149" height="260" key="GridCell.Tab.0.bottom/0.23.1792.1029@0.23.1792.1029" timestamp="1583898921070" />
+    <state width="1149" height="260" key="GridCell.Tab.0.center" timestamp="1583898921068">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1149" height="260" key="GridCell.Tab.0.center/0.23.1792.1029@0.23.1792.1029" timestamp="1583898921068" />
+    <state width="1149" height="260" key="GridCell.Tab.0.left" timestamp="1583898921068">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1149" height="260" key="GridCell.Tab.0.left/0.23.1792.1029@0.23.1792.1029" timestamp="1583898921068" />
+    <state width="1149" height="260" key="GridCell.Tab.0.right" timestamp="1583898921069">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1149" height="260" key="GridCell.Tab.0.right/0.23.1792.1029@0.23.1792.1029" timestamp="1583898921069" />
+    <state width="1149" height="260" key="GridCell.Tab.1.bottom" timestamp="1583898921070">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1149" height="260" key="GridCell.Tab.1.bottom/0.23.1792.1029@0.23.1792.1029" timestamp="1583898921070" />
+    <state width="1149" height="260" key="GridCell.Tab.1.center" timestamp="1583898921070">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1149" height="260" key="GridCell.Tab.1.center/0.23.1792.1029@0.23.1792.1029" timestamp="1583898921070" />
+    <state width="1149" height="260" key="GridCell.Tab.1.left" timestamp="1583898921070">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1149" height="260" key="GridCell.Tab.1.left/0.23.1792.1029@0.23.1792.1029" timestamp="1583898921070" />
+    <state width="1149" height="260" key="GridCell.Tab.1.right" timestamp="1583898921070">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1149" height="260" key="GridCell.Tab.1.right/0.23.1792.1029@0.23.1792.1029" timestamp="1583898921070" />
+    <state x="571" y="156" key="SettingsEditor" timestamp="1583456261705">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state x="571" y="156" key="SettingsEditor/0.23.1792.1029@0.23.1792.1029" timestamp="1583456261705" />
+    <state x="130" y="370" key="com.intellij.ide.util.TipDialog" timestamp="1583899312085">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state x="130" y="370" key="com.intellij.ide.util.TipDialog/0.23.1792.1029@0.23.1792.1029" timestamp="1583899312085" />
+    <state x="1034" y="492" width="666" height="554" key="find.popup" timestamp="1583381856643">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="1034" y="492" width="666" height="554" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1583381856643" />
+    <state x="562" y="225" key="new project wizard" timestamp="1583892313809">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state x="562" y="225" key="new project wizard/0.23.1792.1029@0.23.1792.1029" timestamp="1583892313809" />
+    <state x="113" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1583892318929">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state x="113" y="251" width="670" height="676" key="search.everywhere.popup/0.23.1792.1029@0.23.1792.1029" timestamp="1583892318929" />
   </component>
 </project>
