@@ -2,85 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e813a18b-068b-40b3-86d7-514f7b76e466" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docker/Vue/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/yn/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker/Vue/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/Vue/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker/nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/nginx/nginx.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/dev-client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/dev-server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/load-minified.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/service-worker-dev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/service-worker-prod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/src/components/Hello.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/msapplication-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/img/icons/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/static/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ApiResponse/ApiResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ApiResponse/ApiResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/Config/MongoConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/Config/MongoConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItem$ToDoItemBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItem$ToDoItemBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemResponse$ToDoItemResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemResponse$ToDoItemResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/ToDoItem/ToDoItemService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/YnApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/yn/YnApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/yn-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/yn-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.example.yn.YnApplicationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.example.yn.YnApplicationTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.example.yn.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.example.yn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.example.yn.YnApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.example.yn.YnApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/yn/ToDoItem/ToDoItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/yn/ToDoItem/ToDoItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +185,7 @@
       <workItem from="1583807701676" duration="4343000" />
       <workItem from="1583886788224" duration="4535000" />
       <workItem from="1583892396691" duration="5546000" />
-      <workItem from="1583899303934" duration="4083000" />
+      <workItem from="1583899303934" duration="6452000" />
     </task>
     <servers />
   </component>
